@@ -13,3 +13,4 @@ A dedicated Must-Visit Places section provides concise yet informative details a
 The project also introduces an AI Travel Guide concept, representing the future of smart tourism experiences. This feature highlights ideas such as personalized itineraries, cultural insights, and interactive guidance, adding a futuristic layer to Rajasthan’s timeless heritage.
 
 Overall, Rajasthan-Royale serves as a strong portfolio and academic project, demonstrating frontend development skills, creative UI design, and the effective blending of culture with technology. It celebrates the timeless royalty of Rajasthan while showcasing modern web development practices.
+
